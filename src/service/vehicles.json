@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "plate": "axm7100",
+        "brand": "Alfa Romeo",
+        "model": "corsa",
+        "color": "verde",
+        "km": 189001
+    },
+    {
+        "id": 2,
+        "plate": "AXM7143",
+        "brand": "Volkswagen",
+        "model": "SpaceFox",
+        "color": "Cinza",
+        "km": 174372
+    },
+    {
+        "id": 1,
+        "plate": "ILL2933",
+        "brand": "Volkswagen",
+        "model": "Gol",
+        "color": "Vermelho",
+        "km": 322900
+    }
+]
